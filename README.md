@@ -1,1 +1,1 @@
-Some Take-Home solutions with independent analyses
+Take-Home solutions with independent analyses
